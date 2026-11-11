@@ -1,0 +1,22 @@
+{
+  "current": "s2",
+  "files": {
+    "sep": {
+      "path": "objects/sep.jsonl",
+      "partition": "2026-09"
+    },
+    "oct": {
+      "path": "objects/oct.jsonl",
+      "partition": "2026-10"
+    }
+  },
+  "snapshots": {
+    "s1": [
+      "sep"
+    ],
+    "s2": [
+      "sep",
+      "oct"
+    ]
+  }
+}
